@@ -1,3 +1,4 @@
+# My first program in Python and django framwork
 # simple-online-shop-by-django
 # only on http://127.0.0.1:8000/admin
 # user:amir
